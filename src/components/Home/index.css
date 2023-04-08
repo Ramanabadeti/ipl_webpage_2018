@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.iplLogo {
+  height: 30px;
+  width: 30px;
+}
+
+.head {
+  display: flex;
+}
+
+.teamsList {
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

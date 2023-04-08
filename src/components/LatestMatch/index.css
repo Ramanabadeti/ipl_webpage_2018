@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000;
+  color: #fff;
+  padding: 40px;
+  border: 0px none;
+  border-radius: 10px;
+}
